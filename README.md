@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/chiragbhatia8" target="blank"><img src="https://img.shields.io/twitter/follow/chiragbhatia8?logo=twitter&style=for-the-badge" alt="chiragbhatia8" /></a> </p>
 
-- 🔭 I’m currently working with ** Django, Django Rest Framework**
+- 🔭 I’m currently working with **Django, Django Rest Framework**
 
 - 🌱 I’m currently learning **React, FastAPI**
 
